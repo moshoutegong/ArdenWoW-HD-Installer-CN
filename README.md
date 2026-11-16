@@ -4,9 +4,9 @@
 
 ## 下载
 
-**V3 的使用说明和截图已更新。** 下方是现有的 **V2 安装包**下载入口，V3 安装包的网盘地址待更新。
+**V3 安装包已上线。** 请在网盘中选择 ArdenWoW **V3** 一键安装包。
 
-[百度网盘下载 V2（ArdenWoW-HD-Arden-v2.zip）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34) · 提取码 **`kf34`** · 约 **5.01 GB**
+[百度网盘下载 ArdenWoW V3 一键安装包](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34) · 提取码 **`kf34`**
 
 ![ArdenWoW 高清补丁安装器 V3 界面](assets/installer-v3.png)
 
