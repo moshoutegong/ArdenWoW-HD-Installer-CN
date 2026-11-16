@@ -1,5 +1,12 @@
 # 更新记录
 
+## V4
+
+- 沿用适合 32 位 ArdenWoW 的 8 个高清 MPQ，保留 LuxVelum Win32 简体中文版的独立安装与还原。
+- 新增 32 位 ReShade 6.8.0 Addon、预设、着色器及画质配置的安装与还原。ReShade 主菜单默认简体中文，画质配置还原时会恢复安装前的 `Config.wtf`。
+- 新增 BloodyScreen 和 DanceMusic 可选插件的安装与移除。
+- 加宽窗口并降低高度，LuxVelum 和 ReShade 并排，新增蓝底白箭头安装器图标。
+
 ## V3
 
 - 可选光影改为 LuxVelum Win32 Build-1 简体中文版，基于 `6656eee`。按 **Ctrl+F7** 打开中文设置。
